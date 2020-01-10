@@ -9,9 +9,9 @@ public class Principal {
         int nota;
         System.out.println("Introduzca nota a analizar:");
         nota = entrada.nextInt();
-        if(nota > 5){
+        if (nota > 5) {
             System.out.println("Prueba Superada");
         }
     }
-    
+
 }
